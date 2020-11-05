@@ -1,6 +1,9 @@
 # INF1629 – G3
 Repositório para o trabalho final da disciplina Princípios de Engenharia de Software ministrado pelo profesor Julio Cesar Sampaio, na universidade PUC-Rio,  cursada em 2020.2
 
+## Projeto
+Uma aplicação web que recebe um arquivo de texto e retorna a frequência de termos dentro desse arquivo. A elaboração do código deve seguir o [estilo de programação Pipeline, descrito aqui pela prof. Cristina Videira Lopes](https://github.com/crista/exercises-in-programming-style/tree/master/06-pipeline).
+
 ## Cronograma
 Etapa               | Status | Início   | Fim
 ------------------- | ------ | -------- | ----
