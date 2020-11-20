@@ -8,7 +8,7 @@ Etapa               | Status | Início   | Fim
 ------------------- | ------ | -------- | ----
 Ponto de Controle 1 | ✅    | 27/10/20 | 05/11/20
 Ponto de Controle 2 | ✅     | 05/11/20 | 12/11/20
-Ponto de Controle 3 | :x:    | 12/11/20 | 19/11/20
+Ponto de Controle 3 | ✅    | 12/11/20 | 19/11/20
 Ponto de Controle 4 | :x:    | 19/11/20 | 26/11/20
 Entrega Final       | :x:    | 26/11/20 | 15/12/20
 
