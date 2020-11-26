@@ -1,3 +1,6 @@
+from django.http import HttpResponse
+
+from django.shortcuts import render
 #!/usr/bin/env python
 import sys, re, operator, string
 
@@ -38,7 +41,14 @@ def sort(word_freq):
 def print_all(word_freqs):
     if(len(word_freqs) > 0):
         print(word_freqs[0][0], '-', word_freqs[0][1])
-        print_all(word_freqs[1:]);
+        print_all(word_freqs[1:])
+
+def index(request):
+    return HttpResponse("Hello, world. You're at the polls index.")
+
+# def UserHome(request):
+
+# 		return redirect('/' )
 
 #
 # The main function
