@@ -12,6 +12,10 @@ Ponto de Controle 3 | ✅    | 12/11/20 | 19/11/20
 Ponto de Controle 4 | ✅    | 19/11/20 | 26/11/20
 Entrega Final       | :x:    | 26/11/20 | 15/12/20
 
+## Bibliotecas
+Frameworks utilizados no desenvolvimento do projeto.
+- [Django](https://github.com/django/django)
+
 ## Equipe
 * Antônio Chaves - 1611292
 * Arthur Coelho - 1920964
