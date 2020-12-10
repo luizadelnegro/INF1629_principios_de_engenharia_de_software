@@ -4,13 +4,13 @@
   <h2>Upload</h2>
   <form method="post" enctype="multipart/form-data">
     {% csrf_token %}
-    <input type="file" name="document">
-    <button type="submit">Upload file</button>
+    Words: <input type="file" name="words">
+    <br><br>
+    Stop Words: <input type="file" name="stop_words">
+    <br><br>
+    <button type="submit">Upload files</button>
   </form>
   {% if url %}
-    <p>Uploaded file: <a href="{{ url }}">{{ url }}</a></p>
-  {% endif %}
-  {% if url %}
-    <p>Frequencies: {{ words }}</p>
+    <p><br>Frequencies: {{ frequencies }}</p>
   {% endif %}
 {% endblock %}
