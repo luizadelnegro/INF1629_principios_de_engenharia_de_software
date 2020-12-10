@@ -15,6 +15,7 @@ Entrega Final       | :x:    | 26/11/20 | 15/12/20
 ## Como rodar
 - Baixe o projeto
 - Acesse a pasta `g6` no terminal
+- Instale cada requerimento do arquivo `requirements.txt` com `pip install [nome_do_pacote]`
 - Rode `python3 manage.py runserver`
 
 ## Bibliotecas
